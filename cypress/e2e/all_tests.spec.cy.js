@@ -1,0 +1,5 @@
+import "./test1_home_title.spec.cy.js"
+import "./test2_product_count.spec.cy.js"
+import "./test3_product_page.spec.cy.js"
+import "./test4_cart_counter.spec.cy.js"
+import "./test5_chekout.spec.cy.js"
